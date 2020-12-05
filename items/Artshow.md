@@ -1,0 +1,16 @@
+# 🎨 <b>DESIGN FOUNDATIONS ART SHOW</b> 🎨
+
+<ul class="experience"><u>MY EXPERIENCE</u>
+    <li class="list">Design Foundations, the Conestoga College program that I attended, helped students set up an art show to display their art and prototypes. We were able to invite family and friends, and sell some of our artwork.</li>
+    &nbsp;
+    <li class="list">When: April of 2018 at the Waterloo Region Museum.</li>
+    &nbsp;
+    <li class="list">I gained experience with presenting my artwork and I had the opportunity to sell some of my artwork. I was at the very beginning of my design career and it felt extremely accomplishing.</li>
+    &nbsp;
+    <li class="list">My favourite memory was seeing all of my family and friends showing up to support me. This was a moment when I realized how much support and love I have around me.</li>
+    &nbsp;
+    <li class="list">One thing I didn't enjoy was how busy the day was and cleaning up afterwards.</li>
+    &nbsp;
+    <li class="list">My experience was a <b>🅱</b>!</li>
+</ul>
+<br>
