@@ -42,7 +42,7 @@ class Items extends Page{
         });
     }
     render(){
-        $.get(`../items/${this.oItems[this.nCurrentItem].fname}`, (sMarkdown) => {
+        $.get(`${this.sBase}/items/${this.oItems[this.nCurrentItem].fname}`, (sMarkdown) => {
             $("article#current").append(`
                 <div class="itemImage"><img src="${this.getImageSrc(this.oItems[this.nCurrentItem].specialImage)}" /></div>
             `);
